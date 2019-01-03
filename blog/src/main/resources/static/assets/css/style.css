@@ -2504,3 +2504,22 @@ footer.site-footer {
     right: 20px !important; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Viet */
+.error  {
+	color: red;
+	font-weight: bold italic;
+	font-style: italic;
+}
+
+.required {
+	color: red;
+}
+
+.right-panel{
+	min-height: 90vh; 
+}
+
+.card-header .btn {
+	float: right;
+}
